@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Xcode, Firebase, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, AndroidStudio, Firebase, Git e GitHub.</strong>
 </p>
 
 
