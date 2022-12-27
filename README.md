@@ -1,7 +1,7 @@
 <img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo andypaiva">
 
 <p align="left"> 
- 🖖 Olá, meu nome é Anderson Paiva. Sou estudante bacharel em<strong>Engenharia de Software, Desenvolvedor Flutter</strong> e <strong>UI Designer</strong>.
+ 🖖 Olá, meu nome é Anderson Paiva. Sou estudante bacharel de <strong>Engenharia de Software, Desenvolvedor Flutter</strong> e <strong>UI Designer</strong>.
 </p>
 
 <p align="left">
