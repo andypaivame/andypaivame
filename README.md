@@ -1,15 +1,15 @@
 <img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo andypaiva">
 
 <p align="left"> 
- 🖖 Olá, meu nome é Anderson Paiva. Sou <strong>Engenheiro de Software, Desenvolvedor Mobile</strong> e <strong>UI Designer</strong>.
+ 🖖 Olá, meu nome é Anderson Paiva. Sou estudante bacharel em<strong>Engenharia de Software, Desenvolvedor Flutter</strong> e <strong>UI Designer</strong>.
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>Flutter, iOS e Android</strong>
+ ☕ Habilidades: <strong>Flutter & iOS nativo</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Xcode, AndroidStudio, Firebase, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, Xcode, Firebase, Git e GitHub.</strong>
 </p>
 
 
