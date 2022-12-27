@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>Flutter & Dart</strong>
+ ☕ Habilidades: <strong>Flutter, Dart, Android, iOS</strong>
 </p>
 
 <p align="left">
